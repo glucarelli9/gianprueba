@@ -1,0 +1,17 @@
+.cajamayor{
+    border-radius: 32px;
+    margin: 20px 10px;
+    padding: 10px;
+    border-color: blue;
+}
+.cajamayor#primera{
+    padding: 0;
+}
+div#imgportada{
+    display: flex;
+    z-index: 1;
+}
+div#imgportada img{
+    width: 100%;
+    border-radius: 32px 32px 0 0;
+}
